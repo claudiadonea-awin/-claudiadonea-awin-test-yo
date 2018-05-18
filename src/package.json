@@ -1,0 +1,28 @@
+{
+  "name": "claudiadonea-awin-test-yo",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:claudiadonea-awin/-claudiadonea-awin-test-yo.git"
+  },
+  "author": {
+    "name": "Claudia Donea",
+    "email": "claudia.donea@awin.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:claudiadonea-awin/-claudiadonea-awin-test-yo.git/issues"
+  },
+  "main": "claudiadonea-awin-test-yo.umd.js",
+  "module": "claudiadonea-awin-test-yo.js",
+  "jsnext:main": "claudiadonea-awin-test-yo.js",
+  "typings": "claudiadonea-awin-test-yo.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
